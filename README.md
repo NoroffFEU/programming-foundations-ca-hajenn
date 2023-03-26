@@ -1,8 +1,6 @@
 # Programming Foundations CA
 
 <h3> First one ( the main one ) </h3>
-<p> This one have 1 object in it </p>
-
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboard.js"> dashboard.js </a>
 
 <ol>
@@ -65,6 +63,7 @@
 </ol>
 
 <h3> Second one ( extra ) </h3>
-<p> This one have more than just 1 object in it </p>
+<a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboardclass.js"> toyota.js </a>
 
+<h3> Third one ( extra ) </h3>
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/toyota.js"> toyota.js </a>
