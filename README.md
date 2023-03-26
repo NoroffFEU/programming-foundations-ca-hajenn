@@ -1,11 +1,11 @@
 # Programming Foundations CA
 
-<h3> First one ( the main one ) </h3>
-<p> This one have 1 object in it </p>
-
+<h3> Dashboard object  </h3>
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboard.js"> dashboard.js </a>
 
 <ol>
+    
+    <li> This object has the following properties: </li>
     <li> -Speedometer ( Child Object)  </li>
     <ul>
         <li> value ( Number ) showing nothing or 0 if nothing is plotted in </li>
@@ -64,9 +64,3 @@
     </ul>
 </ol>
 
-<h3> Usage </h3>
-
-<h3> Second one ( extra ) </h3>
-<p> This one have more than just 1 object in it </p>
-
-<a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/toyota.js"> toyota.js </a>
