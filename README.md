@@ -2,6 +2,8 @@
 # Programming Foundations CA
 
 
+<h1> First one ( the main one ) </h1>
+<p> This one have 1 object in it </p>
 
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboard.js"> dashboard.js </a>
 
@@ -56,5 +58,8 @@
         <li> sensor types usually connected via wires  ( Array ) showing different types of sensors  </li>
     </ul>
 </ol>
+
+<h1> Second one ( extra ) </h1>
+<p> This one have more than just 1 object in it </p>
 
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/toyota.js"> toyota.js </a>
