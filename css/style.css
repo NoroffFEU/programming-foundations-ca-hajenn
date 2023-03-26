@@ -2,3 +2,106 @@ body {
 	font-family: sans-serif;
 	padding: 1em 3em;
 }
+.dashboard {
+  width: 800px;
+  height: 400px;
+  background-color: #333;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.speedometer {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #eee;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.needle {
+  width: 2px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: bottom center;
+}
+
+.fuel-gauge {
+  width: 100px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.fuel-level {
+  width: 80px;
+  height: 0%;
+  background-color: green;
+  border-radius: 0 0 10px 10px;
+}
+
+.temperature-gauge {
+  width: 100px;
+  height: 150px;
+  border-radius: 10px;
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.temperature-level {
+  width: 80px;
+  height: 50%;
+  background-color: blue;
+  border-radius: 0 0 10px 10px;
+}
+
+.odometer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+  margin-top: 50px;
+}
+
+.digit {
+  margin: 0 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  background-color: #ccc;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.button:hover {
+  background-color: #999;
+}
+
+.button:active {
+  background-color: #555;
+}
+
