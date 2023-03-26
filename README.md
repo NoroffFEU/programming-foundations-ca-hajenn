@@ -1,6 +1,4 @@
-
 # Programming Foundations CA
-
 
 <h3> First one ( the main one ) </h3>
 <p> This one have 1 object in it </p>
@@ -56,6 +54,13 @@
             <li> -Sensors ( Child Object Array )  </li>
     <ul>
         <li> sensor types usually connected via wires  ( Array ) showing different types of sensors  </li>
+    </ul>
+            <li> -UpdateAll( Functions(6 Parameters) ) this plots in values and sends it the dashboard display if the parameter is equal  
+             to the objects value
+            </li>
+    <ul>
+        <li> sensor types ( Array ) different sensors that could be connected to the dashboard, with properties that detects if something is lost or
+        is running for troubleshooting  </li>
     </ul>
 </ol>
 
