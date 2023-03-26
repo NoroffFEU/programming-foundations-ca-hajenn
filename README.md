@@ -49,7 +49,7 @@
     <ul>
         <li> value ( Number ) showing nothing or 0 if nothing is plotted in </li>
         <li> Type of signals indicators ( String[] ) list of some signals or led lamps you might get on your dashboard </li>
-        <li> updateValue ( Function (Parameter), Function (Parameter) ) updating the value if certain conditionals is true or false  </li>
+        <li> updateValue ( Function (Parameter1, Parameter2) ) updating the value if certain conditionals is true or false  </li>
     </ul>
             <li> -Sensors ( Child Object Array )  </li>
     <ul>
