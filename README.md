@@ -63,7 +63,7 @@
 </ol>
 
 <h3> Second one ( extra ) </h3>
-<a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboardclass.js"> toyota.js </a>
+<a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/dashboardclass.js"> dashboardclass.js </a>
 
 <h3> Third one ( extra ) </h3>
 <a href="https://github.com/NoroffFEU/programming-foundations-ca-hajenn/blob/master/js/toyota.js"> toyota.js </a>
